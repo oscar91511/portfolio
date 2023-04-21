@@ -18,7 +18,7 @@ const Work = () => {
             <p class="mt-2 ">
               on this proyect im working whit a team on the Academlo making this
               Store whit, cart,darkmode,slider bar,memori main, support window
-              etc. we use CSS and JavaScript{" "}
+              etc. we use CSS and JavaScript
             </p>
             <img className="" src="/images/Academlo_Store.jpg" alt="" />
             <a

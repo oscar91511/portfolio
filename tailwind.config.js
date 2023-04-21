@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         Great: "Great Vibes, cursive",
         Bebas: "Bebas Neue",
+        Robo: "Roboto Condensed"
       },
 
      
