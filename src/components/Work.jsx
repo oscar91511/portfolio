@@ -9,7 +9,7 @@ const Work = () => {
       <h2 className="text-3xl font-bold font-Bebas hover:text-lime-400 cursor-pointer mt-2">
         Actualy Work on Selft Projets
       </h2>
-      <section className="grid gap-12 mt-12 sm:grid-cols-1">
+      <section className="grid gap-12 mt-12  sm:grid-cols-1">
         <article class="grid sm:grid-cols-7 text-[22px] sm:text-[16px] py-4 gap-4 font-Bebas text-lime-400">
           <div class="p-4  hover:bg-[#FFF3E4]  hover:shadow-lg">
             <h3 class="text-lg text-gray-700 text-[22px]  font-bold">
@@ -23,6 +23,7 @@ const Work = () => {
             <img className="" src="/images/Academlo_Store.jpg" alt="" />
             <a
               href="https://store-academlo-shop.netlify.app/"
+              target="_blank" rel="noopener noreferrer"
               class="mt-4 items  text-gray-400 sm:text-[20px] text-[25px]  hover:text-blue-700 "
             >
               (Click for) Look proyect
@@ -41,6 +42,7 @@ const Work = () => {
             <img className="" src="/images/climate.jpg" alt="" />
             <a
               href="https://climate-api.netlify.app/"
+              target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
               (click for) Look Proyect
@@ -60,6 +62,7 @@ const Work = () => {
             <img className="" src="/images/store.jpg" alt="" />
             <a
               href="https://tienda-virtual-1.netlify.app/"
+              target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
               (click for) Look Proyect
@@ -81,6 +84,7 @@ const Work = () => {
             <img className="" src="/images/galaxy.jpg" alt="" />
             <a
               href="https://into-spaceship.netlify.app/"
+              target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
               (click for) Look Proyect
@@ -100,6 +104,7 @@ const Work = () => {
             <img className="" src="/images/rick_and_morty.jpg" alt="" />
             <a
               href="https://rick-and-morty-world.netlify.app/"
+              target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
               (click for) Look Proyect
@@ -118,6 +123,7 @@ const Work = () => {
             <img className="" src="/images/Eterium_Card.jpg" alt="" />
             <a
               href="https://tarjet-eth-equilibrium.netlify.app/"
+              target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
               (click for) Look Proyect
@@ -137,6 +143,7 @@ const Work = () => {
             <img className="" src="/images/Card_stats.jpg" alt="" />
             <a
               href="https://taildwind-vite-and-react.netlify.app/"
+              target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
               (click for) Look Proyect
