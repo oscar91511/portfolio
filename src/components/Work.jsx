@@ -10,75 +10,90 @@ const Work = () => {
         Actualy Work on Selft Projets
       </h2>
       <section className="grid gap-12 mt-12 sm:grid-cols-1">
-        <article class="grid sm:grid-cols-7 gap-4 font-Bebas text-lime-400">
-          <div class="p-4  hover:bg-gray-100 hover:shadow-lg">
-            <h3 class="text-lg text-gray-700 font-bold">Proyecto 1</h3>
-            <p class="mt-2 ">Descripción del proyecto 1</p>
+        <article class="grid sm:grid-cols-7 text-[22px] sm:text-[16px] py-4 gap-4 font-Bebas text-lime-400">
+          <div class="p-4  hover:bg-gray-100  hover:shadow-lg">
+            <h3 class="text-lg text-gray-700 text-[22px]  font-bold">Proyect 1</h3>
+            <p class="mt-2 ">on this proyect im working whit a team on the Academlo making this Store whit,
+            cart,darkmode,slider bar,memori main, support window etc. we use CSS and JavaScript </p>
+            <img className=""src="/images/Academlo_Store.jpg" alt="" />
             <a
               href="https://store-academlo-shop.netlify.app/"
-              class="mt-2 text-gray-400 hover:text-blue-700"
+              class="mt-4 items  text-gray-400 sm:text-[20px] text-[25px]  hover:text-blue-700 "
             >
-              Look proyect
+              (Click for)Look proyect
             </a>
           </div>
           <div class="p-4 hover:bg-gray-100 hover:shadow-lg">
-            <h3 class="text-lg text-gray-700 font-bold">Proyecto 2</h3>
-            <p class="mt-2">Descripción del proyecto 2</p>
+            <h3 class="text-lg text-gray-700 font-bold">Proyect 2</h3>
+            <p class="mt-2">Api climate: 
+              We use TaildwindCSS, JavaScript, and HTML in React for the finished API.
+              We add modes such as the dark mode that automatically adapts according to the time,
+              a search engine for different places</p>
+            <img className=""src="/images/climate.jpg" alt="" />
             <a
-              href="https://proyecto2.netlify.app"
-              class="mt-2 text-gray-400 hover:text-blue-700"
+              href="https://climate-api.netlify.app/"
+              class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
-              Look Proyect
+              (click for)Look Proyect
             </a>
           </div>
           <div class="p-4 hover:bg-gray-100 hover:shadow-lg">
-            <h3 class="text-lg text-gray-700 font-bold">Proyecto 3</h3>
-            <p class="mt-2">Descripción del proyecto 3</p>
+            <h3 class="text-lg text-gray-700 font-bold">Proyect 3</h3>
+            <p class="mt-2">in this shop we test our individual skills,
+             using CSS, JavaScript and HTML5.
+            What are you waiting for to visit now GamingSoftwarePereira.
+
+            this shop is a practice design <br /><br /></p>
+            <img className=""src="/images/store.jpg" alt="" />
             <a
-              href="https://proyecto3.netlify.app"
-              class="mt-2 text-gray-400 hover:text-blue-700"
+              href="https://climate-api.netlify.app/"
+              class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
-              Look Proyect
+              (click for)Look Proyect
             </a>
           </div>
           <div class="p-4 hover:bg-gray-100 hover:shadow-lg">
-            <h3 class="text-lg text-gray-700 font-bold">Proyecto 4</h3>
-            <p class="mt-2">Descripción del proyecto 4</p>
+            <h3 class="text-lg text-gray-700 font-bold">Proyect 4</h3>
+            <p class="mt-2">Api climate: 
+              We use TaildwindCSS, JavaScript, and HTML in React for the finished API.
+              We add modes such as the dark mode that automatically adapts according to the time,
+              a search engine for different places</p>
+            <img className=""src="/images/store.jpg" alt="" />
             <a
-              href="https://proyecto4.netlify.app"
-              class="mt-2 text-gray-400 hover:text-blue-700"
+              href="https://climate-api.netlify.app/"
+              class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
-              Look proyect
+              (click for)Look Proyect
             </a>
           </div>
           <div class="p-4 hover:bg-gray-100 hover:shadow-lg">
-            <h3 class="text-lg text-gray-700 font-bold">Proyecto 5</h3>
+            <h3 class="text-lg text-gray-700 font-bold">Proyect 5</h3>
             <p class="mt-2">Descripción del proyecto 5</p>
             <a
               href="https://proyecto5.netlify.app"
               class="mt-2 text-gray-400 hover:text-blue-700"
             >
-              Ver proyecto
+              Look Proyect
             </a>
           </div>
           <div class="p-4 hover:bg-gray-100 hover:shadow-lg">
-            <h3 class="text-lg text-gray-700 font-bold">Proyecto 6</h3>
+            <h3 class="text-lg text-gray-700 font-bold">Proyect 6</h3>
             <p class="mt-2">Descripción del proyecto 6</p>
             <a
               href="https://proyecto6.netlify.app"
               class="mt-2 text-gray-400 hover:text-blue-700"
             >
-              Ver proyecto
+              Look Proyect
             </a>
           </div>
           <div class="p-4 hover:bg-gray-100 hover:shadow-lg">
-            <h3 class="text-lg text-gray-700 font-bold">Proyecto 7</h3>
+            <h3 class="text-lg text-gray-700 font-bold">Proyect 7</h3>
             <p class="mt-2">Descripción del proyecto 7</p>
             <a
               href="https://proyecto7.netlify.app"
               class="mt-2 text-gray-400 hover:text-blue-700"
             >
-              Ver proyecto
+              Look Proyect
             </a>
           </div>
         </article>
