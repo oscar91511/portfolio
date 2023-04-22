@@ -5,7 +5,7 @@ const Philosophy = () => {
     <section className="max-w-[1200px] mx-auto text-white sm:grid sm:grid-cols-2">
       <article className="bg-[#FFF3E4] text-black py-10 px-2 grid gap-12 sm:grid sm:content-between">
         <div>
-          <h3 className="text-2xl font-bold mb-4">Philosophy & values</h3>
+          <h3 className="text-2xl animate-pulse font-bold mb-4" id="About me">About me  & values</h3>
           <p className="text-gray-500">
             I think everyone wants the same thing - relationship with humanity,
             peace with the metaphysical, and experience with the universe. I try
@@ -13,10 +13,33 @@ const Philosophy = () => {
             hospitality.
           </p>
         </div>
-
-        <a className="border-b-2 border-gray-400 max-w-max pb-1" href="#">Check my LinkedIn</a>
+        <div className="flex flex-col items-center justify-center" >
+          <h2 className="text-[25px] uppercase font-bold mb-4 " >Contact me</h2>
+          <div className="flex gap-4">
+            <a
+              href="https://www.linkedin.com/in/oscar-eduardo-lopez-restrepo-968a91265/"
+              target="_blank" rel="noopener noreferrer"
+              className="mt-4 font-bold text-black sm:text-[20px] text-[40px] flex items-center"
+            >
+              <img className="w-[100px]" src="/images/linked.png" alt="LinkedIn" />
+            </a>
+            <a
+              href="https://github.com/oscar91511/"
+              target="_blank" rel="noopener noreferrer"
+              className="mt-4 font-bold text-black sm:text-[20px] text-[40px] flex items-center"
+            >
+              <img className="w-[100px]" src="/images/github.png" alt="GitHub" />
+            </a>
+            <a
+              href="mailto:gamingsoftwarepereira@gmail.com"
+              className="mt-4 font-bold text-black sm:text-[20px] text-[40px] flex items-center"
+            >
+              <i className="far fa-envelope mr-2"></i>
+              Contact 
+            </a>
+          </div>
+        </div>
       </article>
-
       <article>
         <img className="w-full h-[400px] object-cover" src="/images/philosophy.png" alt="" />
       </article>

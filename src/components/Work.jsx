@@ -3,7 +3,7 @@ import React from "react";
 const Work = () => {
   return (
     <section className="text-white py-12 px-2 max-w-[1200px] mx-auto">
-      <h3 className="uppercase text-sm font-semibold text-gray-400">
+      <h3 className="uppercase text-sm font-semibold text-gray-400" id="Work Experience">
         Work Experience
       </h3>
       <h2 className="text-3xl font-bold font-Bebas hover:text-lime-400 cursor-pointer mt-2">

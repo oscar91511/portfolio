@@ -6,11 +6,12 @@ const Skillset = () => {
       {/* Subseccion superior */}
       <section className="md:grid md:grid-cols-[1fr_auto] md:gap-16">
         <article>
-          <h3 className="font-bold text-3xl">Skillset</h3>
-          <p className="text-gray-400 mt-3">
-            With skills in over 4 different fields of design, I am the perfect
-            person to hire when it comes to a full fledged project. Whatever
-            your needs are, I can pretty much take on any challenge.
+          <h3 className="font-bold text-3xl" id="Skillsets">Skillsets</h3>
+          <p className="text-gray-400 text-2xl mt-3">
+          With skills in different different fields of design, I am the perfect
+            person to hire when it comes to a complete project.
+          , I can take on practically any challenge, no matter how difficult it is and if I don't know it,
+           I won't rest until I find the way, I am passionate about my work.
           </p>
         </article>
 
@@ -66,21 +67,21 @@ const Skillset = () => {
       </section>
 
       {/* Subseccion inferior (Logos) */}
-      <section className="grid grid-cols-2 mt-12 sm:grid-cols-4">
-        <div className="aspect-square grid place-content-center border-[1px] border-gray-800">
-          <img src="/images/logo1.png" alt="" />
+      <section className=" grid-cols-2 mt-12 sm:grid-cols-4  grid  border-[1px] border-gray-800">
+        <div className="">
+          <img src="" alt="" />
         </div>
 
-        <div className="aspect-square grid place-content-center border-[1px] border-gray-800">
-          <img src="/images/logo2.png" alt="" />
+        <div className="">
+          <img src="" alt="" />
         </div>
 
-        <div className="aspect-square grid place-content-center border-[1px] border-gray-800">
-          <img src="/images/logo3.png" alt="" />
+        <div className="">
+          <img src="" alt="" />
         </div>
 
-        <div className="aspect-square grid place-content-center border-[1px] border-gray-800">
-          <img src="/images/logo4.png" alt="" />
+        <div className="">
+          <img src="" alt="" />
         </div>
       </section>
     </section>
