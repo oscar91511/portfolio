@@ -41,7 +41,7 @@ const Philosophy = () => {
         </div>
       </article>
       <article>
-        <img className="w-full h-[400px] object-cover" src="/images/philosophy.png" alt="" />
+        <img className="w-[full] translate-x-[150px] h-[400px]  object-cover" src="/images/yo-2.png" alt="" />
       </article>
     </section>
   );

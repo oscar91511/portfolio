@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <section className="text-white md:grid md:grid-cols-[1fr_2fr] md:min-h-[500px] max-w-[1200px] mx-auto">
       <div className="relative">
-        <img className="w-full md:absolute md:top-1/2 md:-translate-y-1/2 md:w-[130%] md:max-w-none " src="/images/header.png" alt="" />
+        <img className="w-full md:absolute md:top-1/2 md:-translate-y-1/2 md:w-[130%] md:max-w-none " src="/images/yo-pc.jpg" alt="" />
       </div>
 
       <section className="px-2 py-12 bg-gray-d md:grid md:place-content-center  md:px-10">
