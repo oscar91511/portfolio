@@ -32,10 +32,10 @@ const Philosophy = () => {
             </a>
             <a
               href="mailto:gamingsoftwarepereira@gmail.com"
+              target="_blank" rel="noopener noreferrer"
               className="mt-4 font-bold text-black sm:text-[20px] text-[40px] flex items-center"
             >
-              <i className="far fa-envelope mr-2"></i>
-              Contact 
+             <img className="w-[100px]" src="/images/gmail.png" alt="Gmail" />
             </a>
           </div>
         </div>
