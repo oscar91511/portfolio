@@ -11,7 +11,7 @@ const Work = () => {
       </h2>
       <section className="grid gap-12 mt-12  sm:grid-cols-1">
         <article class="grid sm:grid-cols-7 text-[22px] sm:text-[16px] py-4 gap-4 font-Bebas text-lime-400">
-          <div class="p-4  hover:bg-[#FFF3E4]  hover:shadow-lg">
+          <div class="p-4  hover:bg-[#FFF3E4] hover:text-black hover:shadow-lg">
             <h3 class="text-lg text-gray-700 text-[22px]  font-bold">
               Proyect 1
             </h3>
@@ -29,7 +29,7 @@ const Work = () => {
               (Click for) Look proyect
             </a>
           </div>
-          <div class="p-4 hover:bg-[#FFF3E4] hover:shadow-lg">
+          <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
             <h3 class="text-lg text-gray-700 text-[22px] font-bold">
               Proyect 2
             </h3>
@@ -48,7 +48,7 @@ const Work = () => {
               (click for) Look Proyect
             </a>
           </div>
-          <div class="p-4 hover:bg-[#FFF3E4] hover:shadow-lg">
+          <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
             <h3 class="text-lg text-gray-700 text-[22px] font-bold">
               Proyect 3
             </h3>
@@ -68,7 +68,7 @@ const Work = () => {
               (click for) Look Proyect
             </a>
           </div>
-          <div class="p-4 hover:bg-[#FFF3E4] hover:shadow-lg">
+          <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
             <h3 class="text-lg text-gray-700  text-[22px] font-bold">
               Proyect 4
             </h3>
@@ -90,7 +90,7 @@ const Work = () => {
               (click for) Look Proyect
             </a>
           </div>
-          <div class="p-4 hover:bg-[#FFF3E4] hover:shadow-lg">
+          <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
             <h3 class="text-lg text-gray-700 text-[22px] font-bold">
               Proyect 5
             </h3>
@@ -110,7 +110,7 @@ const Work = () => {
               (click for) Look Proyect
             </a>
           </div>
-          <div class="p-4 hover:bg-[#FFF3E4] hover:shadow-lg">
+          <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
             <h3 class="text-lg text-gray-700 text-[22px] font-bold">
               Proyect 6
             </h3>
@@ -129,7 +129,7 @@ const Work = () => {
               (click for) Look Proyect
             </a>
           </div>
-          <div class="p-4 hover:bg-[#FFF3E4] hover:shadow-lg">
+          <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
             <h3 class="text-lg text-gray-700 text-[22px] font-bold">
               Proyect 7
             </h3>
