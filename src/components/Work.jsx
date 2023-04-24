@@ -16,8 +16,8 @@ const Work = () => {
               Proyect 1
             </h3>
             <p class="mt-2 ">
-              on this proyect im working whit a team on the Academlo making this
-              Store whit, cart,darkmode, slider bar, memori main, support window
+              on this proyect im working whit a team from  Academlo, we  done this
+              Store whit, cart darkmode, slider bar, memori main, support window
               etc. we use CSS and JavaScript.
               <br /><br />
             </p>
@@ -135,7 +135,7 @@ const Work = () => {
             </h3>
             <p class="mt-2">
               hi, in this fronted mentor challenge we replicate a stat card. we
-              use TaildwindCSS ,HTML 5 and JavaScript. All rights to fronted
+              use TaildwindCSS, HTML 5 and JavaScript. All rights to fronted
               mentor for being creators of the challenge.
               <br />
               <br />
