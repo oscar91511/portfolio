@@ -7,7 +7,7 @@ const Work = () => {
         Work Experience
       </h3>
       <h2 className="text-3xl font-bold font-Bebas hover:text-lime-400 cursor-pointer mt-2">
-        Actualy Work on Selft Projets
+        Actualy Work on Self Projets
       </h2>
       <section className="grid gap-12 mt-12  sm:grid-cols-1">
         <article class="grid sm:grid-cols-7 text-[22px] sm:text-[16px] py-4 gap-4 font-Bebas text-lime-400">
@@ -17,8 +17,9 @@ const Work = () => {
             </h3>
             <p class="mt-2 ">
               on this proyect im working whit a team on the Academlo making this
-              Store whit, cart,darkmode,slider bar,memori main, support window
-              etc. we use CSS and JavaScript
+              Store whit, cart,darkmode, slider bar, memori main, support window
+              etc. we use CSS and JavaScript.
+              <br /><br />
             </p>
             <img className="" src="/images/Academlo_Store.jpg" alt="" />
             <a
@@ -26,7 +27,7 @@ const Work = () => {
               target="_blank" rel="noopener noreferrer"
               class="mt-4 items  text-gray-400 sm:text-[20px] text-[25px]  hover:text-blue-700 "
             >
-              (Click for) Look proyect
+              click on the project 
             </a>
           </div>
           <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
@@ -45,7 +46,7 @@ const Work = () => {
               target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
-              (click for) Look Proyect
+              click on the project 
             </a>
           </div>
           <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
@@ -65,7 +66,7 @@ const Work = () => {
               target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
-              (click for) Look Proyect
+              click on the project 
             </a>
           </div>
           <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
@@ -87,7 +88,7 @@ const Work = () => {
               target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
-              (click for) Look Proyect
+              click on the project 
             </a>
           </div>
           <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
@@ -107,7 +108,7 @@ const Work = () => {
               target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
-              (click for) Look Proyect
+              click on the project 
             </a>
           </div>
           <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
@@ -115,18 +116,17 @@ const Work = () => {
               Proyect 6
             </h3>
             <p class="mt-2">
-              In this fronted mentor challenge we created an etherium card
-              "called: Equilibrium". we managed to replicate it in detail using
-              CSS, JavaScript. credits to fronted mentor as creators of the
-              challenge.
+              In this project we work on the creation of a database,
+               with functions such as user registration, user deletion and data updating.
+               <br /><br /><br /><br />
             </p>
-            <img className="" src="/images/Eterium_Card.jpg" alt="" />
+            <img className="" src="/images/crud.png" alt="" />
             <a
               href="https://tarjet-eth-equilibrium.netlify.app/"
               target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
-              (click for) Look Proyect
+              click on the project 
             </a>
           </div>
           <div class="p-4 hover:bg-[#FFF3E4]  hover:text-black hover:shadow-lg">
@@ -136,7 +136,7 @@ const Work = () => {
             <p class="mt-2">
               hi, in this fronted mentor challenge we replicate a stat card. we
               use TaildwindCSS ,HTML 5 and JavaScript. All rights to fronted
-              mentor for being creators of the challenge
+              mentor for being creators of the challenge.
               <br />
               <br />
             </p>
@@ -146,7 +146,7 @@ const Work = () => {
               target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
-              (click for) Look Proyect
+              click on the project 
             </a>
           </div>
         </article>
