@@ -122,7 +122,7 @@ const Work = () => {
             </p>
             <img className="" src="/images/crud.png" alt="" />
             <a
-              href="https://tarjet-eth-equilibrium.netlify.app/"
+              href="https://crud-data-base.netlify.app/"
               target="_blank" rel="noopener noreferrer"
               class="mt-2 text-gray-400 hover:text-blue-700 sm:text-[20px] text-[25px]"
             >
