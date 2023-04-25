@@ -15,7 +15,7 @@
 - #### React
 - #### HTML
 
-[portfolio](https://github.com/oscar91511/portfolio "portfolio")
+[portfolio](https://portafolio-netlify.netlify.app/ "portfolio")
 
 ![Scremshot]( https://i.ibb.co/1LJ3gVV/Captura-de-pantalla-402.png)
 
