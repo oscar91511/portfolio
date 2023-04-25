@@ -8,10 +8,10 @@
 - #### skillsets
 - #### contact me
 
-# technologi used 
+# technology used 
 
 - #### taildwind
-- #### JavaScreipt
+- #### JavaScript
 
 [portfolio](https://github.com/oscar91511/portfolio "portfolio")
 
