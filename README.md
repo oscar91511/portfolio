@@ -12,6 +12,8 @@
 
 - #### taildwind
 - #### JavaScript
+- #### React
+- #### HTML
 
 [portfolio](https://github.com/oscar91511/portfolio "portfolio")
 
