@@ -16,7 +16,7 @@
 [portfolio](https://github.com/oscar91511/portfolio "portfolio")
 
 ![Scremshot]( https://i.ibb.co/1LJ3gVV/Captura-de-pantalla-402.png)
-![Screamshot](https://i.ibb.co/TbfKkVh/Captura-de-pantalla-403.png)
+
 
 ***in which you can see my other projects, by clicking on them.***
 
