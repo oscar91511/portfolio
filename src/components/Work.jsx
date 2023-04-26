@@ -78,7 +78,7 @@ const Work = () => {
                   different places.
                   </p>
                   <a
-                    href="https://store-academlo-shop.netlify.app/"
+                    href="https://climate-api.netlify.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     class=" items  text-gray-400 sm:text-[25px] text-[25px]  hover:text-blue-700"
