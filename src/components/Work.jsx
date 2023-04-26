@@ -35,7 +35,7 @@ const Work = () => {
                 >
                   <h1 className="text-3xl sm:py-4  py-0 ">Academlo Store</h1>
                   <p class="text-xl text-lime-400">proyect 1</p>
-                  <p className=" text-3xl sm:text-[30px] sm:py-2 ">
+                  <p className=" text-3xl sm:text-[30px] sm:py-0 ">
                     On this proyect im working whit a team from Academlo, we
                     done this store whit, cart darkmode, slider bar, memori
                     main, support window etc. we use CSS and JavaScript.
@@ -44,7 +44,7 @@ const Work = () => {
                     href="https://store-academlo-shop.netlify.app/"
                     target="_blank"
                     rel="noopener noreferrer"
-                    class="mt-4 items  text-gray-400 sm:text-[25px] text-[25px]  hover:text-blue-700"
+                    class="mt-4 items  text-gray-400  sm:text-[25px] text-[25px]  hover:text-blue-700"
                   >
                     click on the project
                   </a>
@@ -71,7 +71,7 @@ const Work = () => {
                 >
                   <h1 className="text-3xl sm:py-4  "> Api climate</h1>
                   <p class="text-xl text-lime-400">proyect 2</p>
-                  <p className=" text-3xl sm:text-[30px] sm:py-2">
+                  <p className=" text-3xl  sm:text-[30px] sm:py-0">
                   We use TaildwindCSS, JS, and HTML on React
                   for the finished API. add modes such as the dark mode that
                   automatically adapts according to the time, you can search
@@ -108,7 +108,7 @@ const Work = () => {
                 >
                   <h1 className="text-3xl sm:py-4 py-0">Academlo Store</h1>
                   <p class="text-xl text-lime-400">Proyect 3</p>
-                  <p className=" text-3xl sm:text-[30px] sm:py-2">
+                  <p className=" text-3xl sm:text-[30px] sm:py-4">
                   in this shop we test our individual skills, using CSS, JavaScript
                   and HTML5. What are you waiting for to visit now
                   GamingSoftwarePereira. this shop is a practice design
@@ -144,7 +144,7 @@ const Work = () => {
                 >
                   <h1 className="text-3xl sm:py-4 py-2 ">About Galaxys</h1>
                   <p class="text-xl text-lime-400">proyect 4</p>
-                  <p className="text-3xl sm:text-[30px] sm:py-2">
+                  <p className="text-3xl sm:text-[30px] sm:py-4">
                     welcome to the galaxy You will make this trip through a space
                     rocket, thus managing to travel to different places and thus
                     discover great things.
@@ -180,7 +180,7 @@ const Work = () => {
                 >
                   <h1 className="text-3xl sm:py-4  "> Rick And Morty</h1>
                   <p class="text-xl text-lime-400">proyect 5</p>
-                  <p className="text-3xl sm:text-[30px] sm:py-2">
+                  <p className="text-3xl sm:text-[30px] sm:py-0">
                   We are going on a journey through different dimensions, with our two crazy friends. You
                   cannot imagine the characters that we will find in these different
                   places.
@@ -216,7 +216,7 @@ const Work = () => {
                 >
                   <h1 className="text-3xl sm:py-4 py-2 ">Data Base</h1>
                   <p class="text-xl text-lime-400">proyect 6</p>
-                  <p className="text-3xl sm:text-[30px] sm:py-2">
+                  <p className="text-3xl sm:text-[30px] sm:py-9">
                   In this project we work on the creation of a database,
                   with user registration, user deletion and data update functions.
                   </p>
@@ -251,7 +251,7 @@ const Work = () => {
                 >
                   <h1 className="text-3xl sm:py-4 py-4 ">Academlo Store</h1>
                   <p class="text-xl text-lime-400">proyect 7</p>
-                  <p className="text-3xl sm:text-[30px] sm:py-2">
+                  <p className="text-3xl sm:text-[30px] sm:py-4">
                   this is a fronted mentor challenge we replicate a stat card using TaildwindCSS, HTML 5 and JavaScript.
                    All rights to creators of the challenge.
                   </p>
