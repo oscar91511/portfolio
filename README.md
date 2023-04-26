@@ -17,7 +17,7 @@
 
 [portfolio](https://portafolio-netlify.netlify.app/ "portfolio")
 
-![Scremshot]( https://i.ibb.co/1LJ3gVV/Captura-de-pantalla-402.png)
+![Scremshot](https://i.ibb.co/Q8dXt6f/portafolio.png)
 
 
 ***in which you can see my other projects, by clicking on them.***
