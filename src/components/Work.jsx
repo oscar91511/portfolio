@@ -2,7 +2,7 @@ import React from "react";
 
 const Work = () => {
   return (
-    <section className="text-white py-12 px-2 max-w-[1200px] mx-auto">
+    <section className="text-white min-h-screen  py-12 px-2 max-w-[1200px] mx-auto">
 
       <h3 className="uppercase text-sm font-semibold text-gray-400" id="Work Experience">
         Work Experience
@@ -13,7 +13,7 @@ const Work = () => {
       </h2>
 
       
-        <article class="grid grid-cols-1 sm:grid-cols-3 gap-x-[40px]  text-[22px] sm:text-[16px] mt-6 font-Bebas "> 
+        <article class="grid grid-cols-1 sm:grid-cols-3 gap-x-[30px] min-h-scream text-[22px] sm:text-[16px] mt-6 font-Bebas "> 
          
         
           <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[400px]  [perspective:1000px]">
