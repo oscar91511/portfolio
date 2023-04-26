@@ -13,10 +13,10 @@ const Work = () => {
       </h2>
 
       
-        <article class="grid grid-cols-1 sm:grid-cols-3 gap-x-[30px] min-h-scream text-[22px] sm:text-[16px] mt-6 font-Bebas "> 
+        <article class="grid grid-cols-1 sm:grid-cols-3 gap-x-[30px] mx-auto min-h-scream text-[22px] sm:text-[16px] mt-6 font-Bebas "> 
          
         
-          <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[400px]  [perspective:1000px]">
+          <div className="group h-[500px] w-[580px] mt-4 sm:h-[400px] sm:w-[400px] mx-auto min-h-min sm:mt-4 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto rounded-[18px] shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -52,7 +52,7 @@ const Work = () => {
               </div>
             </div>
             
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[400px] [perspective:1000px]">
+            <div className="group h-[500px] w-[580px] mt-4 sm:mt-4 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -89,7 +89,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[400px]  [perspective:1000px]">
+            <div className="group h-[500px] w-[580px] mt-4 sm:mt-4 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -125,7 +125,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[400px] mt-2  [perspective:1000px]">
+            <div className="group h-[500px] w-[580px] mt-4 sm:mt-2 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -161,7 +161,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[400px] mt-2 [perspective:1000px]">
+            <div className="group h-[500px] w-[580px] mt-4 sm:mt-2 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -197,7 +197,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[400px] mt-2 [perspective:1000px]">
+            <div className="group h-[500px] w-[580px] mt-4 sm:mt-2 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)] border-[#FFF3E4]   border-[4px]"
@@ -232,7 +232,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[400px] mt-2 [perspective:1000px]">
+            <div className="group h-[500px] w-[580px] mt-4 sm:mt-2 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
