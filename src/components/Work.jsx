@@ -2,7 +2,7 @@ import React from "react";
 
 const Work = () => {
   return (
-    <section className="text-white min-h-screen  py-12 px-2 max-w-[1200px] mx-auto">
+    <section className="text-white py-12 px-2 max-w-[1200px] mx-auto">
 
       <h3 className="uppercase text-sm font-semibold text-gray-400" id="Work Experience">
         Work Experience
@@ -13,10 +13,10 @@ const Work = () => {
       </h2>
 
       
-        <article class="grid grid-cols-1 sm:grid-cols-3 gap-x-[30px] mx-auto min-h-scream text-[22px] sm:text-[16px] mt-6 font-Bebas "> 
+        <article class="grid grid-cols-1 sm:grid-cols-3 gap-x-[40px]  text-[22px] sm:text-[16px] mt-6 font-Bebas "> 
          
         
-          <div className="group h-[500px] w-[580px] mt-4 sm:h-[400px] sm:w-[400px] mx-auto min-h-min sm:mt-4 [perspective:1000px]">
+          <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] sm:mt-4 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto rounded-[18px] shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -52,7 +52,7 @@ const Work = () => {
               </div>
             </div>
             
-            <div className="group h-[500px] w-[580px] mt-4 sm:mt-4 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
+            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -78,7 +78,7 @@ const Work = () => {
                   different places.
                   </p>
                   <a
-                    href="https://climate-api.netlify.app/"
+                    href="https://store-academlo-shop.netlify.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     class=" items  text-gray-400 sm:text-[25px] text-[25px]  hover:text-blue-700"
@@ -89,7 +89,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[580px] mt-4 sm:mt-4 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
+            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px]  [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -125,7 +125,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[580px] mt-4 sm:mt-2 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
+            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] sm:mt-2  [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -161,7 +161,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[580px] mt-4 sm:mt-2 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
+            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] sm:mt-2 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -197,7 +197,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[580px] mt-4 sm:mt-2 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
+            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] sm:mt-2 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)] border-[#FFF3E4]   border-[4px]"
@@ -232,7 +232,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[580px] mt-4 sm:mt-2 sm:h-[400px] sm:w-[400px] mx-auto min-h-min [perspective:1000px]">
+            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] sm:mt-2 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
