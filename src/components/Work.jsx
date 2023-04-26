@@ -13,10 +13,10 @@ const Work = () => {
       </h2>
 
       
-        <article class="grid grid-cols-1 sm:grid-cols-3 gap-x-[40px]  text-[22px] sm:text-[16px] mt-6 font-Bebas "> 
+        <article class="grid grid-cols-1 sm:grid-cols-3 gap-x-[40px] text-[22px] sm:text-[16px] mt-6 font-Bebas "> 
          
         
-          <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] sm:mt-4 [perspective:1000px]">
+          <div className="group h-[400px] w-[100%] mt-4  m sm:h-[400px] sm:w-[400px] sm:mt-4 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto rounded-[18px] shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -33,9 +33,9 @@ const Work = () => {
                   className="absolute inset-0  h-full rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
                 >
-                  <h1 className="text-3xl  py-4 ">Academlo Store</h1>
+                  <h1 className="text-3xl sm:py-4  py-0 ">Academlo Store</h1>
                   <p class="text-xl text-lime-400">proyect 1</p>
-                  <p className=" text-4xl sm:text-[25px] py-4">
+                  <p className=" text-3xl sm:text-[30px] sm:py-2 ">
                     On this proyect im working whit a team from Academlo, we
                     done this store whit, cart darkmode, slider bar, memori
                     main, support window etc. we use CSS and JavaScript.
@@ -52,7 +52,7 @@ const Work = () => {
               </div>
             </div>
             
-            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] [perspective:1000px]">
+            <div className="group h-[400px] w-[100%]   mt-4 sm:h-[400px] sm:w-[400px] [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -69,9 +69,9 @@ const Work = () => {
                   className="absolute inset-0  h-full rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
                 >
-                  <h1 className="text-3xl  py-4 "> Api climate</h1>
+                  <h1 className="text-3xl sm:py-4  "> Api climate</h1>
                   <p class="text-xl text-lime-400">proyect 2</p>
-                  <p className=" text-4xl sm:text-[25px] py-2">
+                  <p className=" text-3xl sm:text-[30px] sm:py-2">
                   We use TaildwindCSS, JS, and HTML on React
                   for the finished API. add modes such as the dark mode that
                   automatically adapts according to the time, you can search
@@ -89,7 +89,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px]  [perspective:1000px]">
+            <div className="group h-[400px] w-[100%] mt-4  sm:h-[400px] sm:w-[400px]  [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -106,9 +106,9 @@ const Work = () => {
                   className="absolute inset-0  h-full rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
                 >
-                  <h1 className="text-3xl  py-4 ">Academlo Store</h1>
+                  <h1 className="text-3xl sm:py-4 py-0">Academlo Store</h1>
                   <p class="text-xl text-lime-400">Proyect 3</p>
-                  <p className=" text-4xl sm:text-[25px] py-4">
+                  <p className=" text-3xl sm:text-[30px] sm:py-2">
                   in this shop we test our individual skills, using CSS, JavaScript
                   and HTML5. What are you waiting for to visit now
                   GamingSoftwarePereira. this shop is a practice design
@@ -125,7 +125,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] sm:mt-2  [perspective:1000px]">
+            <div className="group h-[400px] w-[100%] mt-4  sm:h-[400px] sm:w-[400px] sm:mt-2  [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -142,9 +142,9 @@ const Work = () => {
                   className="absolute inset-0  h-full rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
                 >
-                  <h1 className="text-3xl  py-4 ">About Galaxys</h1>
+                  <h1 className="text-3xl sm:py-4 py-2 ">About Galaxys</h1>
                   <p class="text-xl text-lime-400">proyect 4</p>
-                  <p className=" text-4xl sm:text-[25px] py-4">
+                  <p className="text-3xl sm:text-[30px] sm:py-2">
                     welcome to the galaxy You will make this trip through a space
                     rocket, thus managing to travel to different places and thus
                     discover great things.
@@ -161,7 +161,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] sm:mt-2 [perspective:1000px]">
+            <div className="group h-[400px] w-[100%] mt-4  sm:h-[400px] sm:w-[400px] sm:mt-2 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -178,9 +178,9 @@ const Work = () => {
                   className="absolute inset-0  h-full rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
                 >
-                  <h1 className="text-3xl sm:text-[30px] py-4 "> Rick And Morty</h1>
+                  <h1 className="text-3xl sm:py-4  "> Rick And Morty</h1>
                   <p class="text-xl text-lime-400">proyect 5</p>
-                  <p className="text-4xl sm:text-[25px] py-4">
+                  <p className="text-3xl sm:text-[30px] sm:py-2">
                   We are going on a journey through different dimensions, with our two crazy friends. You
                   cannot imagine the characters that we will find in these different
                   places.
@@ -197,7 +197,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] sm:mt-2 [perspective:1000px]">
+            <div className="group h-[400px] w-[100%] mt-4   sm:h-[400px] sm:w-[400px] sm:mt-2 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)] border-[#FFF3E4]   border-[4px]"
@@ -214,9 +214,9 @@ const Work = () => {
                   className="absolute inset-0  h-full  rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
                 >
-                  <h1 className="text-3xl py-4 ">Data Base</h1>
+                  <h1 className="text-3xl sm:py-4 py-2 ">Data Base</h1>
                   <p class="text-xl text-lime-400">proyect 6</p>
-                  <p className=" text-4xl sm:text-[25px] py-4">
+                  <p className="text-3xl sm:text-[30px] sm:py-2">
                   In this project we work on the creation of a database,
                   with user registration, user deletion and data update functions.
                   </p>
@@ -232,7 +232,7 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[300px] w-[100%] mt-4 sm:h-[400px] sm:w-[400px] sm:mt-2 [perspective:1000px]">
+            <div className="group h-[400px] w-[100%] mt-4   sm:h-[400px] sm:w-[400px] sm:mt-2 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
                [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
@@ -249,9 +249,9 @@ const Work = () => {
                   className="absolute inset-0  h-full  rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
                 >
-                  <h1 className="text-3xl py-4  ">Academlo Store</h1>
-                  <p class="text-xl sm:text-[20px] text-lime-400">proyect 7</p>
-                  <p className=" text-4xl sm:text-[25px] py-4">
+                  <h1 className="text-3xl sm:py-4 py-4 ">Academlo Store</h1>
+                  <p class="text-xl text-lime-400">proyect 7</p>
+                  <p className="text-3xl sm:text-[30px] sm:py-2">
                   this is a fronted mentor challenge we replicate a stat card using TaildwindCSS, HTML 5 and JavaScript.
                    All rights to creators of the challenge.
                   </p>
