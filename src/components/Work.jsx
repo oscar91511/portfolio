@@ -13,13 +13,13 @@ const Work = () => {
       </h2>
 
       
-        <article class="grid grid-cols-1 sm:grid-cols-4 gap-x-[40px] gap-12 text-[22px] sm:text-[16px] font-Bebas "> 
+        <article class="grid grid-cols-1 sm:grid-cols-4 gap-x-[40px]  text-[22px] sm:text-[16px] mt-6 font-Bebas "> 
          
         
-          <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] py-4 p-4 gap-4  [perspective:1000px]">
+          <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px]  [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto rounded-[2px] shadow-xl translation-all duration-500
-               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-white border-[4px]"
+               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
               >
                 <div className="absolute  inset-0">
                   <img
@@ -52,10 +52,10 @@ const Work = () => {
               </div>
             </div>
             
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] py-4 p-4 gap-4 [perspective:1000px]">
+            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto rounded-[2px] shadow-xl translation-all duration-500
-               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-white border-[4px]"
+               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
               >
                 <div className="absolute  inset-0">
                   <img
@@ -89,10 +89,10 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] py-4 p-4 gap-4 [perspective:1000px]">
+            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px]  [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto rounded-[2px] shadow-xl translation-all duration-500
-               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-white border-[4px]"
+               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
               >
                 <div className="absolute  inset-0">
                   <img
@@ -125,10 +125,10 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] py-4 p-4 gap-4 [perspective:1000px]">
+            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px]  [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto rounded-[2px] shadow-xl translation-all duration-500
-               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-white border-[4px]"
+               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
               >
                 <div className="absolute  inset-0">
                   <img
@@ -161,10 +161,10 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] py-4 p-4 gap-4 [perspective:1000px]">
+            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] mt-2 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto rounded-[2px] shadow-xl translation-all duration-500
-               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-white border-[4px]"
+               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
               >
                 <div className="absolute  inset-0">
                   <img
@@ -198,10 +198,10 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] py-4 p-4 gap-4 [perspective:1000px]">
+            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] mt-2 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto rounded-[2px] shadow-xl translation-all duration-500
-               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-white border-[4px]"
+               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)] border-[#FFF3E4]   border-[4px]"
               >
                 <div className="absolute  inset-0">
                   <img
@@ -233,10 +233,10 @@ const Work = () => {
               </div>
             </div>
 
-            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] py-4 p-4 gap-4 [perspective:1000px]">
+            <div className="group h-[500px] w-[600px] sm:h-[400px] sm:w-[300px] mt-2 [perspective:1000px]">
               <div
                 className="relative object-cover h-full w-full mx-auto rounded-[2px] shadow-xl translation-all duration-500
-               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-white border-[4px]"
+               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
               >
                 <div className="absolute  inset-0">
                   <img
