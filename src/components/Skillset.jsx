@@ -2,7 +2,7 @@ import React from "react";
 
 const Skillset = () => {
   return (
-    <section className="text-white px-2 py-12 max-w-[1000px] mx-auto">
+    <section className="flex flex-col text-white px-4 py-12 max-w-[1000px] mx-auto">
       {/* Subseccion superior */}
       <section className="md:grid md:grid-cols-[1fr_auto] md:gap-16">
         <article>
@@ -15,7 +15,9 @@ const Skillset = () => {
           </p>
         </article>
 
-        <section className="grid gap-12 pt-6 md:grid-cols-2 md:gap-x-32">
+        
+      </section>
+      <section className="grid gap-12 pt-6 grid-cols-2 md:grid-cols-4 mx-auto md:gap-x-32">
           <article>
             <div className="w-20 -translate-x-[20px]">
               <img src="/images/frameWorks.png" alt="" />
@@ -64,26 +66,10 @@ const Skillset = () => {
             </ul>
           </article>
         </section>
-      </section>
 
       {/* Subseccion inferior (Logos) */}
-      <section className=" grid-cols-2 mt-12 sm:grid-cols-4  grid  border-[1px] border-gray-800">
-        <div className="">
-          <img src="" alt="" />
-        </div>
-
-        <div className="">
-          <img src="" alt="" />
-        </div>
-
-        <div className="">
-          <img src="" alt="" />
-        </div>
-
-        <div className="">
-          <img src="" alt="" />
-        </div>
-      </section>
+     
+      
     </section>
   );
 };
