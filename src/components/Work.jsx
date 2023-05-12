@@ -319,6 +319,44 @@ const Work = () => {
           </div>
         </article>
 
+        <article className="group h-[400px] w-[100%] mt-4 mx-auto  sm:h-[400px] sm:w-[400px] sm:mt-2 sm:p-2 px-6 [perspective:1000px]">
+          <div
+            className="relative object-cover h-full w-full mx-auto  rounded-[18px]  shadow-xl translation-all duration-500
+               [transform-style:preserve-3d] group-hover:[transform:rotatey(180deg)]  border-[#FFF3E4]  border-[4px]"
+          >
+            <div className="absolute  inset-0">
+              <img
+                className="h-full w-full   rounded-xl  object-cover shadow-xl  text-center
+                   text-slate-200 "
+                src="/images/amazing-2.png"
+                alt=""
+              />
+            </div>
+
+             {/* parte posterior card*/}
+            <div
+              className="absolute inset-0    h-full flex flex-col justify-center items-center rounded-xl  bg-black/80 px-12
+                 text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
+            >
+              <h1 className="text-xl pt-4 sm:text-3xl sm:py-4   ">E-commerce</h1>
+              <p class="text-xl sm:text-3xl text-lime-400">proyect 7</p>
+              <p className="text-xl pb-4 sm:text-[30px] sm:py-10">Amazing Store <br />
+
+              in this project we use tailwind, react, vite,  and an api to create a Amazing Store.
+              do you like buy something.
+              </p>
+              <a
+                href="https://ecommerce-store-proyect6.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-blue-700 "
+              >
+                click on the project
+              </a>
+            </div>
+          </div>
+        </article>
+
       </section>
       <article>
         <img src="" alt="" />
