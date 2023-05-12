@@ -339,7 +339,7 @@ const Work = () => {
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
               <h1 className="text-xl pt-4 sm:text-3xl sm:py-4   ">E-commerce</h1>
-              <p class="text-xl sm:text-3xl text-lime-400">proyect 7</p>
+              <p class="text-xl sm:text-3xl text-lime-400">proyect 8</p>
               <p className="text-xl pb-4 sm:text-[30px] sm:py-10">Amazing Store <br />
 
               in this project we use tailwind, react, vite,  and an api to create a Amazing Store.
