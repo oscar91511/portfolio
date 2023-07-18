@@ -37,9 +37,9 @@ const Work = () => {
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
               <h1 className="text-xl pt-4  sm:py-4  py-0 ">Academlo Store</h1>
-              <p class="text-xl sm:text-3xl text-lime-400">project 1</p>
-              <p className=" text-xl sm:text-[30px]  ">
-                On this project im working whit a team from Academlo, we done
+              <p class="text-xl sm:text-2xl text-lime-400">project 1</p>
+              <p className=" text-xl sm:text-[25px]  sm:py-4">
+                On this project im working with a team from Academlo, we did
                 this store whit, cart darkmode, slider bar, memori main, support
                 window etc. we use CSS and JavaScript.
               </p>
@@ -47,7 +47,7 @@ const Work = () => {
                 href="https://store-academlo-shop.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="mt-1 items  text-gray-400  sm:text-[25px] text-xl  hover:text-blue-700"
+                class="mt-1 items  text-gray-400  sm:text-[25px] text-xl  hover:text-lime-500"
               >
                 click on the project
               </a>
@@ -74,9 +74,9 @@ const Work = () => {
               className="absolute inset-0  flex flex-col justify-center items-center h-full rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-3xl sm:py-4  "> Api climate</h1>
-              <p class="text-xl sm:text-3xl text-lime-400">project 2</p>
-              <p className=" text-xl  sm:text-[30px] sm:text-2xl ">
+              <h1 className="text-xl pt-4 sm:text-xl sm:py-1 "> Api climate</h1>
+              <p class="text-xl sm:text-2xl text-lime-400">project 2</p>
+              <p className=" text-xl  sm:text-[25px] sm:py-8">
                 We use TaildwindCSS, JS, and HTML on React for the finished API.
                 add modes such as the dark mode that automatically adapts
                 according to the time, you can search different places.
@@ -85,7 +85,7 @@ const Work = () => {
                 href="https://climate-api.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="   text-gray-400 mt-1  sm:text-[25px] text-xl  hover:text-blue-700"
+                class="   text-gray-400 mt-1  sm:text-[25px] text-sm  hover:text-lime-500"
               >
                 click on the project
               </a>
@@ -112,9 +112,9 @@ const Work = () => {
               className="absolute inset-0  h-full flex flex-col justify-center items-center rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-3xl sm:py-4  ">Academlo Store</h1>
-              <p class="text-xl sm:text-3xl text-lime-400">project 3</p>
-              <p className=" text-xl sm:text-[30px] ">
+              <h1 className="text-xl pt-4 sm:text-xl sm:py-4  ">Store</h1>
+              <p class="text-xl sm:text-2xl text-lime-400">project 3</p>
+              <p className=" text-xl sm:text-[25px] sm:py-4">
                 in this shop we test our individual skills, using CSS,
                 JavaScript and HTML5. What are you waiting for to visit now
                 GamingSoftwarePereira. this shop is a practice design
@@ -123,7 +123,7 @@ const Work = () => {
                 href="https://tienda-virtual-1.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="mt-1 items  text-gray-400 sm:text-[20px] text-xl  hover:text-blue-700"
+                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl  hover:text-lime-500"
               >
                 click on the project
               </a>
@@ -150,9 +150,9 @@ const Work = () => {
               className="absolute inset-0  flex flex-col justify-center items-center  h-full rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-3xl sm:py-4   ">About Galaxys</h1>
-              <p class="text-xl sm:text-3xl text-lime-400">project 4</p>
-              <p className="text-xl sm:text-[30px] sm:py-2">
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">About Galaxys</h1>
+              <p class="text-xl sm:text-2xl text-lime-400">project 4</p>
+              <p className="text-xl sm:text-[25px] sm:py-8">
                 welcome to the galaxy You will make this trip through a space
                 rocket, thus managing to travel to different places and thus
                 discover great things.
@@ -161,8 +161,8 @@ const Work = () => {
                 href="https://into-spaceship.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl  hover:text-blue-700"
-              >
+                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-lime-500"
+              > 
                 click on the project
               </a>
             </div>
@@ -188,9 +188,9 @@ const Work = () => {
               className="absolute inset-0  h-full rounded-xl flex flex-col justify-center items-center bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-3xl sm:py-4    "> Rick And Morty</h1>
-              <p class="text-xl sm:text-3xl text-lime-400">project 5</p>
-              <p className="text-xl sm:text-[30px] ">
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4    "> Rick And Morty</h1>
+              <p class="text-xl sm:text-2xl text-lime-400">project 5</p>
+              <p className="text-xl sm:text-[25px] sm:py-4">
                 We are going on a journey through different dimensions, with our
                 two crazy friends. You cannot imagine the characters that we
                 will find in these different places.
@@ -199,7 +199,7 @@ const Work = () => {
                 href="https://rick-and-morty-world.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl  hover:text-blue-700"
+                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-lime-500"
               >
                 click on the project
               </a>
@@ -226,9 +226,9 @@ const Work = () => {
               className="absolute inset-0  h-full flex flex-col justify-center items-center rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-3xl sm:py-4   ">Data Base</h1>
-              <p class="text-xl sm:text-3xl text-lime-400">project 6</p>
-              <p className="text-xl sm:text-[30px] sm:py-7">
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">Data Base</h1>
+              <p class="text-xl sm:text-2xl text-lime-400">project 6</p>
+              <p className="text-xl sm:text-[25px] sm:py-10">
                 In this project we work on the creation of a database, with user
                 registration, user deletion and data update functions.
               </p>
@@ -236,7 +236,7 @@ const Work = () => {
                 href="https://crud-data-base.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl  hover:text-blue-700 "
+                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl  hover:text-lime-500 "
               >
                 click on the project
               </a>
@@ -263,9 +263,9 @@ const Work = () => {
               className="absolute inset-0    h-full flex flex-col justify-center items-center rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-3xl sm:py-4   ">Academlo Store</h1>
-              <p class="text-xl sm:text-3xl text-lime-400">project 7</p>
-              <p className="text-xl sm:text-[30px] sm:py-2">
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">Academlo Store</h1>
+              <p class="text-xl sm:text-2xl text-lime-400">project 7</p>
+              <p className="text-xl sm:text-[25px] sm:py-4">
                 this is a Front-End mentor challenge we replicate a stat card
                 using TaildwindCSS, HTML 5 and JavaScript. All rights to
                 creators of the challenge.
@@ -274,7 +274,7 @@ const Work = () => {
                 href="https://taildwind-vite-and-react.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl  hover:text-blue-700 "
+                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl  hover:text-lime-500 "
               >
                 click on the project
               </a>
@@ -301,9 +301,9 @@ const Work = () => {
               className="absolute inset-0    h-full flex flex-col justify-center items-center rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-3xl sm:py-4   ">Pokedex Api</h1>
-              <p class="text-xl sm:text-3xl text-lime-400">project 7</p>
-              <p className="text-xl sm:text-[30px] sm:py-10">
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">Pokedex Api</h1>
+              <p class="text-xl sm:text-2xl text-lime-400">project 7</p>
+              <p className="text-xl sm:text-[25px] sm:py-8">
               in this project we use tailwind, react, vite,  and an api to create a pokedex.
               come find your pokemon.
               </p>
@@ -311,7 +311,7 @@ const Work = () => {
                 href="https://poke-dex-world.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-blue-700 "
+                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-lime-500 "
               >
                 click on the project
               </a>
@@ -338,9 +338,9 @@ const Work = () => {
               className="absolute inset-0    h-full flex flex-col justify-center items-center rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-3xl sm:py-4   ">E-commerce</h1>
-              <p class="text-xl sm:text-3xl text-lime-400">project 8</p>
-              <p className="text-xl pb-4 sm:text-[30px] sm:py-10">Amazing Store <br />
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">E-commerce</h1>
+              <p class="text-xl sm:text-2xl text-lime-400">project 8</p>
+              <p className="text-xl pb-4 sm:text-[25px] sm:py-4">Amazing Store <br />
 
               in this project we use tailwind, react, vite,  and an api to create a Amazing Store.
               do you like buy something.
@@ -349,7 +349,7 @@ const Work = () => {
                 href="https://ecommerce-store-project6.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-blue-700 "
+                class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-lime-500 "
               >
                 click on the project
               </a>
