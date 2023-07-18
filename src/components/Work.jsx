@@ -12,7 +12,7 @@ const Work = () => {
         </h3>
 
         <h2 className="text-3xl font-bold font-Bebas hover:text-lime-400 cursor-pointer mt-2">
-        currently Work on Self Projects
+        Main Proyects
         </h2>
       </div>
 
