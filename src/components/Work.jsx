@@ -85,7 +85,7 @@ const Work = () => {
                 href="https://climate-api.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="   text-gray-400 mt-1  sm:text-[25px] text-sm  hover:text-lime-500"
+                class="   text-gray-400 mt-1  sm:text-[25px] text-xl  hover:text-lime-500"
               >
                 click on the project
               </a>
