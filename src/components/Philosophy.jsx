@@ -1,22 +1,19 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 const Philosophy = () => {
+  const { t } = useTranslation();
+
   return (
     <section className="max-w-[1200px] mx-auto text-white sm:grid sm:grid-cols-2">
       <article className="bg-[#FFF3E4] text-black py-10 px-2 grid gap-12 sm:grid sm:content-between">
         <div>
           <h3 className="text-2xl animate-pulse font-bold mb-4" id="About me">
-            About me
+          {t('About me')}
           </h3>
           <p className="text-gray-500">
-            Hello! I'm{" "}
-            <span className="text-blue-500 uppercase"> Oscar Lopez</span>, a
-            passionate and collaborative front-end developer. I love working in
-            a team and I believe in the importance of open and effective
-            communication. My analytical and detailed approach allows me to
-            solve problems efficiently. I am always updated with the latest
-            trends and I am a constant learner. Excited to take part in
-            challenging projects and build amazing web experiences together!
+          {t('helloText')}{" "}
+            <span className="text-blue-500 uppercase">{t('Oscar Lopez')}</span>,{t('devDescription')}
           </p>
         </div>
         <div className="flex flex-col items-center justify-center">
