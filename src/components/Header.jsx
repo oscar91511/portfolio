@@ -14,7 +14,7 @@ const Header = () => {
         />
       </div>
 
-      <section className="px-2 py-12 bg-gray-d md:grid md:place-content-center  md:px-10">
+      <section className="px-2 py-16 bg-gray-d md:grid md:place-content-center  md:px-10">
         <h2 className="text-3xl font-bold md:text-5xl md:relative tracking-wider  font-Bebas md:z-20">
           {t("headerTitle")}
           <span className="  text-lime-300">{t("headerLocation")}</span>
@@ -31,6 +31,7 @@ const Header = () => {
             <img src="/images/CSS.png" alt="" />
             <img src="/images/React.png" alt="" />
             <img src="/images/taildwind.png" alt="" />
+            <img src="/images/Vue.png" alt="" />
           </div>
         </p>
       </section>

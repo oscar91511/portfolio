@@ -4,6 +4,7 @@
   "workExperience": "Work Experience",
   "skillsets": "Skillsets",
   "contactMe": "Contact Me",
+  "cvUrl": "https://docs.google.com/document/d/1oTekYZ-bR3iDIKBEzIte-Fyh-IZyISOF/edit",
   "About me": "About Me",
   "aboutMe": "Hello! I'm...",
   "contactMeSection": "Contact Me",
@@ -22,5 +23,11 @@
   "Skillsetstext2": "I am passionate about my work.",
   "Frameworks": "Frameworks",
   "SourceControl": "Source Control",
-  "Languages": "Languages"
+  "Languages": "Languages",
+  "WorkExperience": "Work Experience",
+  "MainProyects": "Main Proyects",
+  "AcademloStore": "Academlo Store",
+  "project1": "project 1",
+  "project1text": "In this project I'm working with a team from Academlo, we made this store with cart dark mode, slider, main memory, support window, etc. We use CSS and JavaScript.",
+  "clickon1": "click on the project"
 }

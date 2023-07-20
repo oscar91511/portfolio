@@ -1,6 +1,9 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 const Work = () => {
+  const { t } = useTranslation();
+
   return (
     <section className="text-white py-12 px-2 max-w-[1200px] mx-auto">
       <div>
@@ -8,11 +11,11 @@ const Work = () => {
           className="uppercase text-sm font-semibold text-gray-400"
           id="Work Experience"
         >
-          Work Experience
+          {t("WorkExperience")}
         </h3>
 
         <h2 className="text-3xl font-bold font-Bebas hover:text-lime-400 cursor-pointer mt-2">
-        Main Proyects
+          {t("MainProyects")}
         </h2>
       </div>
 
@@ -36,12 +39,12 @@ const Work = () => {
               className="absolute inset-0 flex flex-col justify-center items-center  h-full rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4  sm:py-4  py-0 ">Academlo Store</h1>
-              <p class="text-xl sm:text-2xl text-lime-400">project 1</p>
+              <h1 className="text-xl pt-4  sm:py-4  py-0 ">
+                {t("AcademloStore")}
+              </h1>
+              <p class="text-xl sm:text-2xl text-lime-400">{t("project1")}</p>
               <p className=" text-xl sm:text-[25px]  sm:py-4">
-                On this project im working with a team from Academlo, we did
-                this store whit, cart darkmode, slider bar, memori main, support
-                window etc. we use CSS and JavaScript.
+                {t("project1text")}
               </p>
               <a
                 href="https://store-academlo-shop.netlify.app/"
@@ -49,7 +52,7 @@ const Work = () => {
                 rel="noopener noreferrer"
                 class="mt-1 items  text-gray-400  sm:text-[25px] text-xl  hover:text-lime-500"
               >
-                click on the project
+                {t("clickon1")}
               </a>
             </div>
           </div>
@@ -150,7 +153,9 @@ const Work = () => {
               className="absolute inset-0  flex flex-col justify-center items-center  h-full rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">About Galaxys</h1>
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">
+                About Galaxys
+              </h1>
               <p class="text-xl sm:text-2xl text-lime-400">project 4</p>
               <p className="text-xl sm:text-[25px] sm:py-8">
                 welcome to the galaxy You will make this trip through a space
@@ -162,7 +167,7 @@ const Work = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-lime-500"
-              > 
+              >
                 click on the project
               </a>
             </div>
@@ -188,7 +193,10 @@ const Work = () => {
               className="absolute inset-0  h-full rounded-xl flex flex-col justify-center items-center bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4    "> Rick And Morty</h1>
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4    ">
+                {" "}
+                Rick And Morty
+              </h1>
               <p class="text-xl sm:text-2xl text-lime-400">project 5</p>
               <p className="text-xl sm:text-[25px] sm:py-4">
                 We are going on a journey through different dimensions, with our
@@ -221,7 +229,7 @@ const Work = () => {
               />
             </div>
 
-             {/* parte posterior card*/}
+            {/* parte posterior card*/}
             <div
               className="absolute inset-0  h-full flex flex-col justify-center items-center rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
@@ -258,12 +266,14 @@ const Work = () => {
               />
             </div>
 
-             {/* parte posterior card*/}
+            {/* parte posterior card*/}
             <div
               className="absolute inset-0    h-full flex flex-col justify-center items-center rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">Academlo Store</h1>
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">
+                Academlo Store
+              </h1>
               <p class="text-xl sm:text-2xl text-lime-400">project 7</p>
               <p className="text-xl sm:text-[25px] sm:py-4">
                 this is a Front-End mentor challenge we replicate a stat card
@@ -296,16 +306,18 @@ const Work = () => {
               />
             </div>
 
-             {/* parte posterior card*/}
+            {/* parte posterior card*/}
             <div
               className="absolute inset-0    h-full flex flex-col justify-center items-center rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">Pokedex Api</h1>
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">
+                Pokedex Api
+              </h1>
               <p class="text-xl sm:text-2xl text-lime-400">project 7</p>
               <p className="text-xl sm:text-[25px] sm:py-8">
-              in this project we use tailwind, react, vite,  and an api to create a pokedex.
-              come find your pokemon.
+                in this project we use tailwind, react, vite, and an api to
+                create a pokedex. come find your pokemon.
               </p>
               <a
                 href="https://poke-dex-world.netlify.app/"
@@ -333,17 +345,19 @@ const Work = () => {
               />
             </div>
 
-             {/* parte posterior card*/}
+            {/* parte posterior card*/}
             <div
               className="absolute inset-0    h-full flex flex-col justify-center items-center rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">E-commerce</h1>
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">
+                E-commerce
+              </h1>
               <p class="text-xl sm:text-2xl text-lime-400">project 8</p>
-              <p className="text-xl pb-4 sm:text-[25px] sm:py-4">Amazing Store <br />
-
-              in this project we use tailwind, react, vite,  and an api to create a Amazing Store.
-              do you like buy something.
+              <p className="text-xl pb-4 sm:text-[25px] sm:py-4">
+                Amazing Store <br />
+                in this project we use tailwind, react, vite, and an api to
+                create a Amazing Store. do you like buy something.
               </p>
               <a
                 href="https://ecommerce-store-project6.netlify.app/"
@@ -356,7 +370,6 @@ const Work = () => {
             </div>
           </div>
         </article>
-
       </section>
       <article>
         <img src="" alt="" />
