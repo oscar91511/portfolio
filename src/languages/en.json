@@ -29,5 +29,18 @@
   "AcademloStore": "Academlo Store",
   "project1": "project 1",
   "project1text": "In this project I'm working with a team from Academlo, we made this store with cart dark mode, slider, main memory, support window, etc. We use CSS and JavaScript.",
-  "clickon1": "click on the project"
+  "clickon1": "click on the project",
+  "Apiclimate": "Api climate",
+  "project2": "project 2",
+  "project2text":"I use Tailwind CSS, JS, and HTML in React for the finished API. add modes like dark mode that automatically adapts based on time, you can search in different places.",
+  "clickon2": "click on the project",
+  "Store": "Store",
+  "project3": "project 3",
+  "project3text":"in this store we put our skills to the test, using CSS, JavaScript and HTML5. What are you waiting for to visit Gaming Software Pereira now. this shop is practice layout",
+  "clickon3":"click on the project",
+  "AboutGalaxies": "About Galaxies",
+  "project4": "project 4",
+  "project4text": "Welcome to the galaxy. You will make this trip through space in a rocket, thus managing to travel to different places and thus discover great things.",
+  "clickon4": "click on the project"
+  
 }

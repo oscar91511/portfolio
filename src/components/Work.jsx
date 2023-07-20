@@ -77,12 +77,12 @@ const Work = () => {
               className="absolute inset-0  flex flex-col justify-center items-center h-full rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-xl sm:py-1 "> Api climate</h1>
-              <p class="text-xl sm:text-2xl text-lime-400">project 2</p>
+              <h1 className="text-xl pt-4 sm:text-xl sm:py-1 ">
+                {t("Apiclimate")}
+              </h1>
+              <p class="text-xl sm:text-2xl text-lime-400">{t("project2")}</p>
               <p className=" text-xl  sm:text-[25px] sm:py-8">
-                We use TaildwindCSS, JS, and HTML on React for the finished API.
-                add modes such as the dark mode that automatically adapts
-                according to the time, you can search different places.
+                {t("project2text")}
               </p>
               <a
                 href="https://climate-api.netlify.app/"
@@ -90,7 +90,7 @@ const Work = () => {
                 rel="noopener noreferrer"
                 class="   text-gray-400 mt-1  sm:text-[25px] text-xl  hover:text-lime-500"
               >
-                click on the project
+                {t("clickon2")}
               </a>
             </div>
           </div>
@@ -115,12 +115,12 @@ const Work = () => {
               className="absolute inset-0  h-full flex flex-col justify-center items-center rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-xl sm:py-4  ">Store</h1>
-              <p class="text-xl sm:text-2xl text-lime-400">project 3</p>
+              <h1 className="text-xl pt-4 sm:text-xl sm:py-4  ">
+                {t("Store")}
+              </h1>
+              <p class="text-xl sm:text-2xl text-lime-400">{t("project3")}</p>
               <p className=" text-xl sm:text-[25px] sm:py-4">
-                in this shop we test our individual skills, using CSS,
-                JavaScript and HTML5. What are you waiting for to visit now
-                GamingSoftwarePereira. this shop is a practice design
+                {t("project3text")}
               </p>
               <a
                 href="https://tienda-virtual-1.netlify.app/"
@@ -128,7 +128,7 @@ const Work = () => {
                 rel="noopener noreferrer"
                 class="mt-1 items  text-gray-400 sm:text-[25px] text-xl  hover:text-lime-500"
               >
-                click on the project
+                {t("clickon3")}
               </a>
             </div>
           </div>
@@ -154,13 +154,11 @@ const Work = () => {
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
               <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">
-                About Galaxys
+              {t("AboutGalaxies")}
               </h1>
-              <p class="text-xl sm:text-2xl text-lime-400">project 4</p>
+              <p class="text-xl sm:text-2xl text-lime-400">{t("project4")}</p>
               <p className="text-xl sm:text-[25px] sm:py-8">
-                welcome to the galaxy You will make this trip through a space
-                rocket, thus managing to travel to different places and thus
-                discover great things.
+                {t("project4text")}
               </p>
               <a
                 href="https://into-spaceship.netlify.app/"
@@ -168,7 +166,7 @@ const Work = () => {
                 rel="noopener noreferrer"
                 class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-lime-500"
               >
-                click on the project
+                {t("clickon4")}
               </a>
             </div>
           </div>

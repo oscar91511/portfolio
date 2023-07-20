@@ -29,5 +29,17 @@
   "AcademloStore": "Tienda Academlo",
   "project1": "projecto 1",
   "project1text": "En este proyecto estoy trabajando con un equipo de Academlo, hicimos esta tienda con carrito en modo oscuro, slider, memoria principal, ventana de soporte, etc. Usamos CSS y JavaScript.",
-  "clickon1": "click en el proyecto"
+  "clickon1": "click en el proyecto",
+  "Apiclimate": "Clima Api",
+  "project2": "projecto 2",
+  "project2text":"Uso Tailwind CSS, JS y HTML en React para la API terminada. agregue modos como el modo oscuro que se adapta automáticamente según el tiempo, puede buscar en diferentes lugares.",
+  "clickon2": "click en el proyecto",
+  "Store": "Tienda",
+  "project3": "projecto 3",
+  "project3text":"en esta tienda ponemos a prueba nuestras habilidades, utilizando CSS, JavaScript y HTML5. Que esperas para visitar Gaming Software Pereira ahora. esta tienda es diseño de práctica",
+  "clickon3":"click en el proyecto",
+  "AboutGalaxies": "Acerca de las galaxias",
+  "project4": "projecto 4",
+  "project4text": "Bienvenido a la galaxia. Realizarás este viaje por el espacio en un cohete, logrando así viajar a diferentes lugares y así descubrir grandes cosas.",
+  "clickon4":"click en el proyecto"
 }

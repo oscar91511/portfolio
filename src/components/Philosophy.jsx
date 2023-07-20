@@ -65,7 +65,7 @@ const Philosophy = () => {
               onClick={handleDownloadCV}
               target="_blank"
               rel="noopener noreferrer"
-              className="mt-4 font-bold text-black sm:text-[20px] text-[200px] flex items-center"
+              className="mt-4 font-bold text-black sm:text-[20px] text-[200px] flex items-center cursor-pointer"
             >
               <img className="w-[50px]" src="/images/cv.png" alt="cv" />
             </a>
