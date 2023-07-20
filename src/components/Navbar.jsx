@@ -37,6 +37,13 @@ const Navbar = () => {
         } w-full grid text-lg gap-2  font-Robo font-bold sm:font-Bebas duration-200 md:static md:flex md:w-auto`}
       >
         <a
+          className="hover:text-lime-400 p-4 duration-200 text-3xl  pl-2"
+           onClick={() => handleLanguageChange('es')}
+          id="languageButton"
+        >
+          {t('languageButton')}
+        </a>
+        <a
           className=" hover:text-lime-400 p-4 duration-200 text-3xl pl-2  "
           href="#Work Experience"
         >
@@ -54,13 +61,7 @@ const Navbar = () => {
         >
          {t('contactMe')}
         </a>
-        <button
-          className="hover:text-lime-400 p-4 duration-200 text-3xl  pl-2"
-           onClick={() => handleLanguageChange('es')}
-          id="languageButton"
-        >
-          {t('languageButton')}
-        </button>
+        
       </nav>
     </header>
   );
