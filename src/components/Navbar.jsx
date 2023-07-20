@@ -37,7 +37,7 @@ const Navbar = () => {
         } w-full grid text-lg gap-2  font-Robo font-bold sm:font-Bebas duration-200 md:static md:flex md:w-auto`}
       >
         <a
-          className="hover:text-lime-400 p-4 duration-200 text-3xl  pl-2"
+          className="hover:text-lime-400 p-4 duration-200 text-3xl  pl-2 cursor-pointer"
            onClick={() => handleLanguageChange('es')}
           id="languageButton"
         >
