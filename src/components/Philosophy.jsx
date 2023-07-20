@@ -17,7 +17,7 @@ const Philosophy = () => {
           </p>
         </div>
         <div className="flex flex-col items-center justify-center">
-          <h2 className="text-[25px] uppercase font-bold mb-4 ">Contact me</h2>
+          <h2 className="text-[25px] uppercase font-bold mb-4 ">{t('contatcm')}</h2>
           <div className="flex gap-4">
             <a
               href="https://www.linkedin.com/in/oscar-eduardo-lopez-restrepo-968a91265/"

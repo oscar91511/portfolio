@@ -15,5 +15,12 @@
   "greeting": "Hola",
   "aboutMeDescription": "Soy desarrollador Front-End y Diseñador web en CSS y Tailwind con grandes ideas y buen desempeño en trabajo en equipo. Si buscas a alguien con dedicación y capacidad de trabajo en equipo, soy el indicado.",
   "skillsTitle": "Habilidades:",
-  "AllReserved": "Todos los derechos reservados 2023"
+  "AllReserved": "Todos los derechos reservados 2023",
+  "contatcm": "Contacta me",
+  "Skillsets": "conjuntos de habilidades",
+  "Skillsetstext": "Con habilidades en diferentes campos del diseño, soy la persona perfecta para contratar cuando se trata de un proyecto completo. Puedo asumir prácticamente cualquier desafío, por difícil que sea y si no sé cómo hacerlo, no descansaré hasta encontrar la manera de resolverlo.",
+  "Skillsetstext2": "Soy apasionado por mi trabajo.",
+  "Frameworks": "marcos",
+  "SourceControl": "fuente de control",
+  "Languages": "Lenguajes"
 }

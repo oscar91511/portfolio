@@ -1,20 +1,22 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 const Skillset = () => {
+  const { t } = useTranslation();
+
   return (
     <section className="flex flex-col text-white px-4 py-12 max-w-[1000px] mx-auto">
       {/* Subseccion superior */}
       <section className="md:grid md:grid-cols-[1fr_auto] md:gap-16">
         <article>
           <h3 className="font-bold text-3xl" id="Skillsets">
-            Skillsets
+            {" "}
+            {t("Skillsets")}
           </h3>
           <p className="text-gray-400 text-2xl mt-3">
-            With skills in different different fields of design, I am the
-            perfect person to hire when it comes to a complete project. I can
-            take on practically any challenge, no matter how difficult it is and
-            if I don't know how to do it, I won't rest until I find the way to
-            solve it. <br /> I am passionate about my work.
+            {t("Skillsetstext")}
+            <br />
+            {t("Skillsetstext2")}
           </p>
         </article>
       </section>
@@ -23,11 +25,13 @@ const Skillset = () => {
           <div className="w-20 -translate-x-[20px]">
             <img src="/images/frameWorks.png" alt="" />
           </div>
-          <h4 className="text-2xl font-semibold my-3">Frameworks</h4>
+          <h4 className="text-2xl font-semibold my-3">{t("Frameworks")}</h4>
           <ul className="text-gray-400">
             <li>React</li>
-            <li></li>
-            <li></li>
+            <li>Node.js</li>
+            <li>Express</li>
+            <li>Sql =</li>
+            <li>pgAdmin4/Tableplus/Postman</li>
           </ul>
         </article>
 
@@ -35,7 +39,7 @@ const Skillset = () => {
           <div className="-translate-y-[5px] w-12">
             <img src="/images/source.png" alt="" />
           </div>
-          <h4 className="text-2xl font-semibold my-3">Source Control</h4>
+          <h4 className="text-2xl font-semibold my-3">{t("SourceControl")}</h4>
           <ul className="text-gray-400">
             <li>Git/Github</li>
             <li>Netlify</li>
@@ -47,11 +51,13 @@ const Skillset = () => {
           <div className="w-14">
             <img src="/images/lenguajes_.png" alt="" />
           </div>
-          <h4 className="text-2xl font-semibold my-3">Languages</h4>
+          <h4 className="text-2xl font-semibold my-3">{t("Languages")}</h4>
           <ul className="text-gray-400">
             <li>HTML</li>
             <li>CSS/taildwindCSS</li>
-            <li>Javascript</li>
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+            <li>vue.js</li>
           </ul>
         </article>
 
