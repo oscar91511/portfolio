@@ -153,8 +153,8 @@ const Work = () => {
               className="absolute inset-0  flex flex-col justify-center items-center  h-full rounded-xl bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">
-              {t("AboutGalaxies")}
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4 ">
+                {t("AboutGalaxies")}
               </h1>
               <p class="text-xl sm:text-2xl text-lime-400">{t("project4")}</p>
               <p className="text-xl sm:text-[25px] sm:py-8">
@@ -191,15 +191,13 @@ const Work = () => {
               className="absolute inset-0  h-full rounded-xl flex flex-col justify-center items-center bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4    ">
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4  ">
                 {" "}
-                Rick And Morty
+                {t("RickAndMorty")}
               </h1>
-              <p class="text-xl sm:text-2xl text-lime-400">project 5</p>
+              <p class="text-xl sm:text-2xl text-lime-400">{t("project5")}</p>
               <p className="text-xl sm:text-[25px] sm:py-4">
-                We are going on a journey through different dimensions, with our
-                two crazy friends. You cannot imagine the characters that we
-                will find in these different places.
+                {t("project5text")}
               </p>
               <a
                 href="https://rick-and-morty-world.netlify.app/"
@@ -207,7 +205,7 @@ const Work = () => {
                 rel="noopener noreferrer"
                 class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-lime-500"
               >
-                click on the project
+                {t("clickon5")}
               </a>
             </div>
           </div>
@@ -232,11 +230,12 @@ const Work = () => {
               className="absolute inset-0  h-full flex flex-col justify-center items-center rounded-xl  bg-black/80 px-12
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
-              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">Data Base</h1>
-              <p class="text-xl sm:text-2xl text-lime-400">project 6</p>
+              <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">
+                {t("DataBase")}
+              </h1>
+              <p class="text-xl sm:text-2xl text-lime-400">{t("project6")}</p>
               <p className="text-xl sm:text-[25px] sm:py-10">
-                In this project we work on the creation of a database, with user
-                registration, user deletion and data update functions.
+                {t("project6text")}
               </p>
               <a
                 href="https://crud-data-base.netlify.app/"
@@ -244,7 +243,7 @@ const Work = () => {
                 rel="noopener noreferrer"
                 class="mt-1 items  text-gray-400 sm:text-[25px] text-xl  hover:text-lime-500 "
               >
-                click on the project
+                {t("clickon6")}
               </a>
             </div>
           </div>
@@ -270,13 +269,11 @@ const Work = () => {
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
               <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">
-                Academlo Store
+                {t("CardFrontedmentor")}
               </h1>
-              <p class="text-xl sm:text-2xl text-lime-400">project 7</p>
+              <p class="text-xl sm:text-2xl text-lime-400">{t("project7")}</p>
               <p className="text-xl sm:text-[25px] sm:py-4">
-                this is a Front-End mentor challenge we replicate a stat card
-                using TaildwindCSS, HTML 5 and JavaScript. All rights to
-                creators of the challenge.
+                {t("project7text")}
               </p>
               <a
                 href="https://taildwind-vite-and-react.netlify.app/"
@@ -284,7 +281,7 @@ const Work = () => {
                 rel="noopener noreferrer"
                 class="mt-1 items  text-gray-400 sm:text-[25px] text-xl  hover:text-lime-500 "
               >
-                click on the project
+                {t("clickon7")}
               </a>
             </div>
           </div>
@@ -310,12 +307,11 @@ const Work = () => {
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
               <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">
-                Pokedex Api
+                {t("PokedexApi")}
               </h1>
-              <p class="text-xl sm:text-2xl text-lime-400">project 7</p>
+              <p class="text-xl sm:text-2xl text-lime-400">{t("project8")}</p>
               <p className="text-xl sm:text-[25px] sm:py-8">
-                in this project we use tailwind, react, vite, and an api to
-                create a pokedex. come find your pokemon.
+                {t("project8text")}
               </p>
               <a
                 href="https://poke-dex-world.netlify.app/"
@@ -323,7 +319,7 @@ const Work = () => {
                 rel="noopener noreferrer"
                 class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-lime-500 "
               >
-                click on the project
+                {t("clickon8")}
               </a>
             </div>
           </div>
@@ -349,13 +345,12 @@ const Work = () => {
                  text-center bg-[#FFF3E4]  [transform:rotatey(180deg)] [backface-visibility:hidden]"
             >
               <h1 className="text-xl pt-4 sm:text-2xl sm:py-4   ">
-                E-commerce
+                {t("E-commerce")}
               </h1>
-              <p class="text-xl sm:text-2xl text-lime-400">project 8</p>
+              <p class="text-xl sm:text-2xl text-lime-400">{t("project9")}</p>
               <p className="text-xl pb-4 sm:text-[25px] sm:py-4">
-                Amazing Store <br />
-                in this project we use tailwind, react, vite, and an api to
-                create a Amazing Store. do you like buy something.
+                <br />
+                {t("project9text")}
               </p>
               <a
                 href="https://ecommerce-store-project6.netlify.app/"
@@ -363,7 +358,7 @@ const Work = () => {
                 rel="noopener noreferrer"
                 class="mt-1 items  text-gray-400 sm:text-[25px] text-xl hover:text-lime-500 "
               >
-                click on the project
+                {t("clickon9")}
               </a>
             </div>
           </div>

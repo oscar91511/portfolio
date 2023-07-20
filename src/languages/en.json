@@ -26,21 +26,50 @@
   "Languages": "Languages",
   "WorkExperience": "Work Experience",
   "MainProyects": "Main Proyects",
+
   "AcademloStore": "Academlo Store",
   "project1": "project 1",
   "project1text": "In this project I'm working with a team from Academlo, we made this store with cart dark mode, slider, main memory, support window, etc. We use CSS and JavaScript.",
   "clickon1": "click on the project",
+
   "Apiclimate": "Api climate",
   "project2": "project 2",
   "project2text":"I use Tailwind CSS, JS, and HTML in React for the finished API. add modes like dark mode that automatically adapts based on time, you can search in different places.",
   "clickon2": "click on the project",
+
   "Store": "Store",
   "project3": "project 3",
   "project3text":"in this store we put our skills to the test, using CSS, JavaScript and HTML5. What are you waiting for to visit Gaming Software Pereira now. this shop is practice layout",
   "clickon3":"click on the project",
+
   "AboutGalaxies": "About Galaxies",
   "project4": "project 4",
   "project4text": "Welcome to the galaxy. You will make this trip through space in a rocket, thus managing to travel to different places and thus discover great things.",
-  "clickon4": "click on the project"
-  
+  "clickon4": "click on the project",
+
+  "RickAndMorty": "Rick And Morty",
+  "project5": "project 5",
+  "project5text": "We are going on a journey through different dimensions, with our two crazy friends. You cannot imagine the characters that we will find in these different places.",
+  "clickon5": "click on the project",
+
+  "DataBase": "Data Base",
+  "project6": "project 6",
+  "project6text": "In this project we work on the creation of a database, with user registration, user deletion and data update functions.",
+  "clickon6": "click on the project",
+
+  "CardFrontedmentor": "Card Frontedmentor",
+  "project7": "project 7",
+  "project7text": "This is a front-end mentor challenge, we replicated a stat card using Tailwind CSS, HTML5, and JavaScript. All rights to the creators of the challenge.",
+  "clickon7": "click on the project",
+
+  "PokedexApi": "Pokedex Api",
+  "project8": "project 8",
+  "project8text": "In this project, we use tailwind, react, vite, and an api to create a pokedex. come find your pokemon",
+  "clickon8": "click on the project",
+
+  "E-commerce": "E-commerce Amazing Store",
+  "project9": "project 9",
+  "project9text": "In this project, we use Tailwind, React, Vite, and an API to create an amazing store. would you like to buy something?",
+  "clickon9": "click on the project"
+
 }
