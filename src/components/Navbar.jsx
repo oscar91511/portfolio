@@ -17,7 +17,7 @@ const Navbar = () => {
   };
 
   return (
-    <header className="md:relative md:container md:mx-auto flex justify-between py-4 px-2 text-3xl text-white items-center md:px-4 md:py-0 fixed top-0 left-0 w-full z-30">
+    <header className="md:container md:mx-auto flex justify-between py-4 px-2 text-3xl text-white items-center md:px-4 md:py-0 fixed top-0 left-0 w-full z-30">
       <h1 className="font-bold hover:text-lime-400 tracking-wider animate-pulse font-Robo">
         Oscar L.R
       </h1>
@@ -30,13 +30,13 @@ const Navbar = () => {
       {/* Translucent dark background / Fondo oscuro translúcido */}
       {isShowNav && (
         <div
-          className="fixed top-0 left-0 w-full h-screen bg-black opacity-50 z-10"
+          className="fixed  top-0 left-0 w-full h-screen bg-black opacity-50 z-10"
           onClick={handleShowNav} // Close menu when dark background is clicked / Cerrar el menú cuando se haga clic en el fondo oscuro
         />
       )}
 
       <nav
-        className={`text-white absolute top-full ${
+        className={`text-white absolute top-full md:bg-gray-800/80 ${
           isShowNav ? "left-0" : "-left-full"
         } w-full grid text-lg gap-2 font-Robo font-bold sm:font-Bebas duration-200 md:static md:flex md:w-auto z-20`}
       >
