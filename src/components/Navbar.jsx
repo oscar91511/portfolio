@@ -24,7 +24,7 @@ const Navbar = () => {
 
       <i
         onClick={handleShowNav}
-        className="bx bx-menu-alt-right text-gray-300 text-3xl cursor-pointer md:hidden"
+        className="bx bx-menu-alt-right text-gray-300 text-3xl cursor-pointer hover:text-lime-400 md:hidden"
       ></i>
 
       {/* Translucent dark background / Fondo oscuro translúcido */}
