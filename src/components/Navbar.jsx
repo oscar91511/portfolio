@@ -21,7 +21,7 @@ const Navbar = () => {
 
 
   return (
-    <header className="flex justify-between py-4  px-2 text-3xl text-white items-center md:px-4 md:py-0 fixed   top-0 left-0 w-full z-30">
+    <header className="flex justify-between py-4  px-2 text-3xl text-white items-center md:px-4 md:py-0 fixed  top-0 left-0 w-full z-30">
       <h1 className="font-bold  hover:text-lime-400 tracking-wider  animate-pulse font-Robo">
         Oscar L.R
       </h1>
