@@ -7,6 +7,7 @@
 - #### work experience
 - #### skillsets
 - #### contact me
+- #### change language
 
 # technology used 
 
