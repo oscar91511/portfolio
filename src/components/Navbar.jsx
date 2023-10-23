@@ -43,24 +43,27 @@ const Navbar = () => {
         {/* Navigation bar content / Contenido de la barra de navegación */}
         <a
           className="hover:text-lime-400 p-4 duration-200 text-3xl pl-2 cursor-pointer"
-          onClick={() => handleLanguageChange("es")}
+          onClick={() => {
+            handleLanguageChange("es");
+            handleShowNav();
+          }}
           id="languageButton"
         >
           {t("languageButton")}
         </a>
-        <a
+        <a onClick={handleShowNav}
           className="hover:text-lime-400 p-4 duration-200 text-3xl pl-2"
           href="#Work Experience"
         >
           {t("workExperience")}
         </a>
-        <a
+        <a onClick={handleShowNav}
           className="hover:text-lime-400 p-4 duration-200 text-3xl pl-2"
           href="#Skillsets"
         >
           {t("skillsets")}
         </a>
-        <a
+        <a onClick={handleShowNav}
           className="hover:text-lime-400 p-4 duration-200 text-3xl pl-2"
           href="#About me"
         >
